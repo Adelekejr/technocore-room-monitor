@@ -8,5 +8,5 @@ venv/
 *.pem
 *.key
 identity.*
-*-report.json
-*-report.md
+/*-report.json
+/*-report.md

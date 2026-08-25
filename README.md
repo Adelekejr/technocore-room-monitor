@@ -28,6 +28,10 @@ python technocore_monitor.py \
 
 Use `--help` to see all options. The default service is `https://technocore.chat`.
 
+## Phone walkthrough
+
+Android users can follow the complete [Termux phone guide](TERMUX_GUIDE.md), including live reporting, exact-commit proof creation, and safe publication steps.
+
 ## Example output
 
 A JSON report includes fields such as:
